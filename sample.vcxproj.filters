@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="imgui">
+      <UniqueIdentifier>{85c92d63-cd31-45a6-aceb-df4406865aae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gameObjComponent">
+      <UniqueIdentifier>{ec9214c8-bc3c-4a9a-b65f-2ecfeb7ac07a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="repairing">
+      <UniqueIdentifier>{c8df222f-d607-4f10-a23a-2a06c210e4cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scene">
+      <UniqueIdentifier>{b6b5a223-428d-4048-aac6-e9f6fa3dad1e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="renderer.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="padInput.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="sound.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ui.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_demo.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_draw.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_dx11.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_impl_win32.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_tables.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="Imgui\imgui_widgets.cpp">
+      <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="climbObjManager.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="hold.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="component.cpp">
+      <Filter>gameObjComponent</Filter>
+    </ClCompile>
+    <ClCompile Include="emitter.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="obstacle.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="bg.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="camera.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="common.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="collision.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="result.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="title.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="fade.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="TextReader2.cpp">
+      <Filter>repairing</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="renderer.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="padInput.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="sound.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="ui.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imconfig.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui_impl_dx11.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui_impl_win32.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imgui_internal.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imstb_rectpack.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imstb_textedit.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="Imgui\imstb_truetype.h">
+      <Filter>imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="component.h">
+      <Filter>gameObjComponent</Filter>
+    </ClInclude>
+    <ClInclude Include="TextReader2.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="hold.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="climbObjManager.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="emitter.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="obstacle.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="bg.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="camera.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="collision.h">
+      <Filter>repairing</Filter>
+    </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="fade.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="result.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
