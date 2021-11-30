@@ -1,0 +1,6 @@
+map 2880 6000 stage0-0_bg_0 120 
+col_circle 60 -420 rock_1 80 80 1 32 
+col_rect 180 -900 rock_3 80 80 0 64 64 
+col_circle 180 -660 rock_1 80 80 0 32 
+col_rect -300 -660 rock_big 160 160 0 64 64 
+

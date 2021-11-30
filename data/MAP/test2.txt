@@ -1,0 +1,50 @@
+map 1920 4000 stage0-0_bg_0 
+col_circle 40 -360 rock_2 80 80 1 40 
+col_circle 280 -520 numberTest 80 80 4 40 
+col_circle 200 -760 rock_1 80 80 0 40 
+col_circle 520 -920 rock_1 80 80 0 40 
+col_circle 440 -1160 rock_1 80 80 0 40 
+col_circle -40 -1480 rock_1 80 80 0 40 
+col_circle 40 -1640 rock_1 80 80 0 40 
+col_circle -280 -840 rock_1 80 80 0 40 
+col_circle -200 -1000 rock_1 80 80 0 40 
+col_circle -360 -1160 rock_1 80 80 0 40 
+col_rect -680 -1560 rock_long 80 400 0 
+col_circle 120 -520 rock_1 80 80 0 40 
+col_circle 40 -680 rock_1 160 160 0 80 
+col_rect 440 -1720 rock_long 80 560 0 
+col_circle -520 -1320 rock_1 80 80 0 40 
+col_circle -600 -1880 rock_1 80 80 0 40 
+col_circle -40 -1960 rock_1 80 80 0 40 
+col_circle -440 -2040 rock_1 80 80 0 40 
+col_rect 40 -2360 rock_big 480 480 2 
+col_circle 360 -2120 rock_1 80 80 0 40 
+col_circle -280 -2680 rock_1 80 80 0 40 
+col_circle -440 -2760 rock_1 80 80 0 40 
+col_circle -280 -2920 rock_1 80 80 0 40 
+col_circle -120 -3000 rock_1 80 80 0 40 
+col_circle -280 -3160 rock_1 80 80 0 40 
+col_circle -120 -3240 rock_1 80 80 0 40 
+col_circle 360 -2680 rock_1 80 80 0 40 
+col_circle 520 -2760 rock_1 80 80 0 40 
+col_circle 360 -2920 rock_1 80 80 0 40 
+col_circle 520 -3000 rock_1 80 80 0 40 
+col_circle 360 -3160 rock_1 80 80 0 40 
+col_circle 200 -3240 rock_1 80 80 0 40 
+col_circle 40 -3400 rock_1 80 80 3 40 
+col_circle -120 -440 rock_1 80 80 0 40 
+col_circle -280 -520 rock_1 80 80 0 40 
+col_circle -200 -680 rock_1 80 80 0 40 
+col_circle 360 -680 rock_1 80 80 0 40 
+col_circle 360 -840 rock_1 80 80 0 40 
+col_circle 120 -1320 rock_1 80 80 0 40 
+col_circle 360 -1320 rock_1 80 80 0 40 
+col_circle -170 -1800 rock_1 160 160 0 80 
+col_circle -280 -520 rock_1 80 80 0 40 
+col_circle 200 -760 rock_1 80 80 0 40 
+col_circle 360 -680 rock_1 80 80 0 40 
+col_circle 360 -840 rock_1 80 80 0 40 
+col_circle 520 -920 rock_1 80 80 0 40 
+col_circle -200 -1000 rock_1 80 80 0 40 
+col_circle 440 -1160 rock_1 80 80 0 40 
+
